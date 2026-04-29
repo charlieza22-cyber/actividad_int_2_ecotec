@@ -1,4 +1,4 @@
-# Sistema de Gestión de Inventario y Ventas - ECOTEC
+# Sistema de Gestión de Inventario y Ventas
 
 Este sistema ha sido desarrollado para la **Actividad Integradora 2**, aplicando una arquitectura de software basada en capas (MVC) y utilizando PHP con MySQL
 
